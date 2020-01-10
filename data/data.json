@@ -3,7 +3,7 @@
         {
             "id": "1",
             "project_name": "Random Quote Generator",
-            "description": "This application is a random quote generator. The quotes and background color will automatically change or can be changed by the user by clicking the button.",
+            "description": "This Program generates random quote. Clicking the button changes the quote and the background color.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -20,7 +20,7 @@
         {
             "id": "2",
             "project_name": "List Pagination and Filtering",
-            "description": "This application takes any list of students and paginates them into ten records per page.",
+            "description": "This program can take long list of individuals and organizes them in pages.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -37,7 +37,7 @@
         {
             "id": "3",
             "project_name": "Interactive Form Validation",
-            "description": "This application takes a conference sign up form and uses validations on name, email, activity slections, and credit card fields and uses field dependacies.",
+            "description": "This Program is a conference sign up form. It validations the input data before allowing registration",
             "technologies": [
                 "JavaScript",
                 "jQuery",
@@ -55,7 +55,7 @@
         {
             "id": "4",
             "project_name": "Object Oriented Programming Game Show",
-            "description": "This application uses object oriented programming methods to create a fun game show called Phrase Hunter. Guess letters to figure out what the phrase is but be careful, you only have five lives.",
+            "description": "This program uses object oriented programming to create a phrase guessing game. You can guess five wrong letters before losing the game.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -72,7 +72,7 @@
         {
             "id": "5",
             "project_name": "Public API Requests",
-            "description": "This application makes an API call to the RandomUserAPI, gets 12 users, and displays them on the main page and also in modals. You can also search by person name.",
+            "description": "This program retrieves 12 random people's info by making an API call to RandomUserAPI. You can also filter the list by searching a name.",
             "technologies": [
                 "JavaScript",
                 "HTML",

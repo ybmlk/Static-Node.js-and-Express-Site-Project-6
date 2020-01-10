@@ -15,5 +15,5 @@
 
 > Styling Changes:
 > * Background color of the sidebar is changed
-> * Thumbnail Each card is more round
+> * Projects' thumbnail is more round
 > * Hovering over a thumbnail causes box shadow
