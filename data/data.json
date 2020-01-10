@@ -12,9 +12,9 @@
             "live_link": "https://ybmlk.github.io/project-1/",
             "github_link": "https://github.com/ybmlk/project-1",
             "image_urls": [
-                "/public/img/project-1-sq.png",
-                "/public/img/project-1-lan-1.png",
-                "/public/img/project-1-lan-2.png"
+                "/static/img/project-1-sq.png",
+                "/static/img/project-1-lan-1.png",
+                "/static/img/project-1-lan-2.png"
             ]
         },
         {
@@ -29,9 +29,9 @@
             "live_link": "https://ybmlk.github.io/project-2/",
             "github_link": "https://github.com/ybmlk/project-2",
             "image_urls": [
-                "/public/img/project-2-sq.png",
-                "/public/img/project-2-lan-1.png",
-                "/public/img/project-2-lan-2.png"
+                "/static/img/project-2-sq.png",
+                "/static/img/project-2-lan-1.png",
+                "/static/img/project-2-lan-2.png"
             ]
         },
         {
@@ -47,9 +47,9 @@
             "live_link": "https://ybmlk.github.io/project-3/",
             "github_link": "https://github.com/ybmlk/project-3",
             "image_urls": [
-                "/public/img/project-3-sq.png",
-                "/public/img/project-3-lan-1.png",
-                "/public/img/project-3-lan-2.png"
+                "/static/img/project-3-sq.png",
+                "/static/img/project-3-lan-1.png",
+                "/static/img/project-3-lan-2.png"
             ]
         },
         {
@@ -64,9 +64,9 @@
             "live_link": "https://ybmlk.github.io/project-4/",
             "github_link": "https://github.com/ybmlk/project-4",
             "image_urls": [
-                "/public/img/project-4-sq.png",
-                "/public/img/project-4-lan-1.png",
-                "/public/img/project-4-lan-2.png"
+                "/static/img/project-4-sq.png",
+                "/static/img/project-4-lan-1.png",
+                "/static/img/project-4-lan-2.png"
             ]
         },
         {
@@ -81,9 +81,9 @@
             "live_link": "https://ybmlk.github.io/project-5/",
             "github_link": "https://github.com/ybmlk/project-5",
             "image_urls": [
-                "/public/img/project-5-sq.png",
-                "/public/img/project-5-lan-1.png",
-                "/public/img/project-5-lan-2.png"
+                "/static/img/project-5-sq.png",
+                "/static/img/project-5-lan-1.png",
+                "/static/img/project-5-lan-2.png"
             ]
         }
     ]
