@@ -7,11 +7,5 @@ router.use((req, res, next) => {
     next(err)
 });
 
-router.use((err, req, res, next) => {
-    res.locals.error = err;
-    res.status(err.status);
-    // ! create 'error.pug'
-    res.render('about');
-});
 
 module.exports = router;
