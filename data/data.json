@@ -1,0 +1,90 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "project_name": "Random Quote Generator",
+            "description": "This application is a random quote generator. The quotes and background color will automatically change or can be changed by the user by clicking the button.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://ybmlk.github.io/project-1/",
+            "github_link": "https://github.com/ybmlk/project-1",
+            "image_urls": [
+                "/public/img/project-1-sq.png",
+                "/public/img/project-1-lan-1.png",
+                "/public/img/project-1-lan-2.png"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "List Pagination and Filtering",
+            "description": "This application takes any list of students and paginates them into ten records per page.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://ybmlk.github.io/project-2/",
+            "github_link": "https://github.com/ybmlk/project-2",
+            "image_urls": [
+                "/public/img/project-2-sq.png",
+                "/public/img/project-2-lan-1.png",
+                "/public/img/project-2-lan-2.png"
+            ]
+        },
+        {
+            "id": "3",
+            "project_name": "Interactive Form Validation",
+            "description": "This application takes a conference sign up form and uses validations on name, email, activity slections, and credit card fields and uses field dependacies.",
+            "technologies": [
+                "JavaScript",
+                "jQuery",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://ybmlk.github.io/project-3/",
+            "github_link": "https://github.com/ybmlk/project-3",
+            "image_urls": [
+                "/public/img/project-3-sq.png",
+                "/public/img/project-3-lan-1.png",
+                "/public/img/project-3-lan-2.png"
+            ]
+        },
+        {
+            "id": "4",
+            "project_name": "Object Oriented Programming Game Show",
+            "description": "This application uses object oriented programming methods to create a fun game show called Phrase Hunter. Guess letters to figure out what the phrase is but be careful, you only have five lives.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://ybmlk.github.io/project-4/",
+            "github_link": "https://github.com/ybmlk/project-4",
+            "image_urls": [
+                "/public/img/project-4-sq.png",
+                "/public/img/project-4-lan-1.png",
+                "/public/img/project-4-lan-2.png"
+            ]
+        },
+        {
+            "id": "5",
+            "project_name": "Public API Requests",
+            "description": "This application makes an API call to the RandomUserAPI, gets 12 users, and displays them on the main page and also in modals. You can also search by person name.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ],
+            "live_link": "https://ybmlk.github.io/project-5/",
+            "github_link": "https://github.com/ybmlk/project-5",
+            "image_urls": [
+                "/public/img/project-5-sq.png",
+                "/public/img/project-5-lan-1.png",
+                "/public/img/project-5-lan-2.png"
+            ]
+        }
+    ]
+}
